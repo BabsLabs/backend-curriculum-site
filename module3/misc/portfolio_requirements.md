@@ -28,6 +28,7 @@ Each student will deliver a 5 minute slide presentation in front of your instruc
   * How are you able to learn new technologies and grow new skills on your own?
   * What areas of your technical practice feel most engaging? When do you do your best work?
   * How does your technical work here link to the ways your want to learn and grow in your job/career?
+  * How has feedback conversations with peers helped prepare you for your job/career?
   * What practical lessons are you taking away from Gear Up sessions that you will use on the job?
 
 
